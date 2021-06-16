@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 💫
 
 <!--
 **DittoJoe/DittoJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I just graduated from Le Wagon studying Web Development 🚗
+- I was the Lead Developer for ParkN, a web app that helps you find the perfect park in Stockholm (link in bio) 🍃
+- I love video games, sewing and karaoke 🎤
