@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-- I studied Web Development at Le Wagon - including HTML, Javascript and Ruby on Rails 🛤 
+- I'm currently working as a Junior Technical Support Engineer at Tink 💼
+- I studied Web Development at Le Wagon, including HTML, Javascript and Ruby on Rails 🛤 
 - I was the Lead Developer for [ParkN](https://www.parkn.club/), a web app that helps you find the perfect park in Stockholm 🍃
-- I'm currently working on bubbleheart, a website to find the perfect place to get bubble tea near you 🧋
