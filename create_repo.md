@@ -7,3 +7,4 @@
     $ git add .
     $ gcam 'initial commit'
     $ git push origin master
+    [TEST]
