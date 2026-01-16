@@ -3,7 +3,7 @@
     $ cd [REPO]
     $ git init
     $ gh repo create
-    $ touch README.md
     $ git add .
-    $ gcam 'initial commit'
-    $ git push origin master
+    $ git commit -m 'initial commit'
+    $ git remote add "origin" git@github.com:DittoJoe/[REPO].git
+    $ git push -u origin main
