@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-- I'm currently working as a Technical Support Engineer at Mollie 💼
+- I'm currently looking for work in Stockholm 💼
 - I studied Web Development at Le Wagon with a focus on Ruby on Rails 🛤 
-- I was the Lead Developer for ParkN, a web app to help you find the perfect park in Stockholm 🍃
+- I was the Lead Developer for ParkN, a web app to help you find the perfect park 🍃
