@@ -4,6 +4,5 @@
     $ git init
     $ gh repo create
     $ git add .
-    $ git commit -m 'initial commit'
-    $ git remote add "origin" git@github.com:DittoJoe/[REPO].git
+    $ gcam 'initialized repository'
     $ git push -u origin main
